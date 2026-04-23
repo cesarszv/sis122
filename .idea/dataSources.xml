@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sis122-20260312@127.0.0.1" uuid="87901a6a-8d02-4f2b-8c44-6edc55b6050b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3307/sis122-20260312?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;connectTimeout=5000&amp;socketTimeout=10000</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="sis122_mysql_20260313exam" uuid="7fd867a6-30d8-4cd2-960e-a444a542d1dc">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3308/20260313exam?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;connectTimeout=5000&amp;socketTimeout=10000</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

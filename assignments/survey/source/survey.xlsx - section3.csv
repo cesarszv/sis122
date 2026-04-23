@@ -1,0 +1,51 @@
+¿Considera necesario que el taller registre la información del vehículo por separado del cliente?,¿Qué información del vehículo considera importante registrar?,¿Le parece útil que el sistema identifique un vehículo de forma única mediante su número de placa?,¿Cree que llevar un registro del kilometraje ayudaría a recomendar mantenimientos preventivos?
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",No,Sí
+"Sí, un cliente puede tener más de un vehículo","Número de placa, Marca",No,No
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Marca, Número de placa, Color",No,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Marca, Número de placa, Color",No,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",No,Sí
+"No, basta con anotar el vehículo junto al cliente","Número de placa, Marca",No,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Marca, Número de placa, Color",Sí,Sí
+"No, basta con anotar el vehículo junto al cliente","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Número de placa, Marca",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",No,No
+"No, basta con anotar el vehículo junto al cliente","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Número de placa, Marca",No,No
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,Sí
+"No, basta con anotar el vehículo junto al cliente","Año/modelo, Marca, Número de placa, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa",Sí,No
+"No, basta con anotar el vehículo junto al cliente","Año/modelo, Marca, Número de placa",No,No
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"No, basta con anotar el vehículo junto al cliente","Marca, Número de placa, Color",No,No
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Marca, Número de placa, Color",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",No,No
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",No,Sí
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"No, basta con anotar el vehículo junto al cliente","Año/modelo, Marca, Número de placa",No,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,No
+"Sí, un cliente puede tener más de un vehículo","Número de placa, Marca",Sí,No
+"No, basta con anotar el vehículo junto al cliente","Todos: Año, Marca, Placa, Color, Kilometraje",No,No
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",No,Sí
+"Sí, un cliente puede tener más de un vehículo","Todos: Año, Marca, Placa, Color, Kilometraje",Sí,Sí
+"Sí, un cliente puede tener más de un vehículo","Año/modelo, Marca, Número de placa, Kilometraje",Sí,No

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resultados de la Encuesta - Gestión de Talleres</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+</head>
+<body>
+  <div class="dashboard-container">
+    <nav class="sidebar">
+      <div class="sidebar-header">
+        <h2>Dashboard</h2>
+        <p>Resultados de Encuesta</p>
+      </div>
+      <ul class="nav-links">
+        <li><a href="#section1" class="active">1. Perfil del Participante</a></li>
+        <li><a href="#section2">2. Registro de Clientes</a></li>
+        <li><a href="#section3">3. Registro de Vehículos</a></li>
+        <li><a href="#section4">4. Mecánicos</a></li>
+        <li><a href="#section5">5. Órdenes de Trabajo</a></li>
+      </ul>
+    </nav>
+    <main class="content">
+      <header class="main-header">
+        <h1>Análisis de Resultados: Sistema de Gestión para Talleres Mecánicos</h1>
+        <p class="subtitle">Visualización interactiva basada en los datos recopilados</p>
+      </header>
+
+      <section id="section1" class="survey-section">
+        <div class="section-header">
+          <h2>Sección 1: Perfil del Participante</h2>
+          <p class="stat-summary" id="stat-section1"></p>
+        </div>
+        <div class="charts-grid" id="grid-section1"></div>
+      </section>
+
+      <section id="section2" class="survey-section">
+        <div class="section-header">
+          <h2>Sección 2: Registro de Clientes</h2>
+          <p class="stat-summary" id="stat-section2"></p>
+        </div>
+        <div class="charts-grid" id="grid-section2"></div>
+      </section>
+
+      <section id="section3" class="survey-section">
+        <div class="section-header">
+          <h2>Sección 3: Registro de Vehículos</h2>
+          <p class="stat-summary" id="stat-section3"></p>
+        </div>
+        <div class="charts-grid" id="grid-section3"></div>
+      </section>
+
+      <section id="section4" class="survey-section">
+        <div class="section-header">
+          <h2>Sección 4: Mecánicos</h2>
+          <p class="stat-summary" id="stat-section4"></p>
+        </div>
+        <div class="charts-grid" id="grid-section4"></div>
+      </section>
+
+      <section id="section5" class="survey-section">
+        <div class="section-header">
+          <h2>Sección 5: Órdenes de Trabajo</h2>
+          <p class="stat-summary" id="stat-section5"></p>
+        </div>
+        <div class="charts-grid" id="grid-section5"></div>
+      </section>
+    </main>
+  </div>
+  
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
